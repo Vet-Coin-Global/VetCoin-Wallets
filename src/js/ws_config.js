@@ -54,7 +54,7 @@ config.remoteNodeSslSupported = false;
 // your currency name
 config.assetName = 'VetCoin';
 // your currency ticker
-config.assetTicker = 'VET';
+config.assetTicker = 'VTN';
 // your currency address prefix, for address validation
 config.addressPrefix = 'VC';
 // standard wallet address length, for address validation
