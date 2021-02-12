@@ -4,7 +4,7 @@ var config = {};
 config.appName = 'VetCoin';
 config.appDescription = 'VetCoin Wallet';
 config.appSlogan = 'Fast and private!';
-config.appId = 'com.vetcoin2020.walletshell';
+config.appId = 'site.vetcoin.walletshell';
 config.appGitRepo = 'https://github.com/Vet-Coin-Global/VetCoin-Wallets';
 
 // default port number for your daemon (e.g. TurtleCoind)
