@@ -2,7 +2,7 @@
   "name": "vetcoin-wallet",
   "productName": "VetCoin Wallet",
   "description": "VetCoin GUI Wallet",
-  "version": "v0.1.5",
+  "version": "v0.1.6",
   "homepage": "https://github.com/Vet-Coin-Global/VetCoin-Wallets",
   "repository": "https://github.com/Vet-Coin-Global/VetCoin-Wallets",
   "main": "main.js",
